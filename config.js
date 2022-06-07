@@ -34,7 +34,7 @@ global.premium = ['918129624395'] //premium number here
 global.packname = 'Dont Steal---|' //Sticker exif/Packname
 global.author = 'ᑎ3᙭ᑌ5-ᘔ3ᖇ' //sticker exif/author
 global.sessionName = 'session'
-global.prefa = ['#','!','.','🐦',',','*'] //prefix
+global.prefa =  ['','!','.','🐦',',','*']//prefix
 global.sp = '❄︎'
 global.mess = {
     success: 'ITՏ ՏᑌᑕᑕᗴՏՏ,ᴅeᴛᴛᴀʙᴀʏᴏ^_^',
