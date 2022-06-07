@@ -14,7 +14,7 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
 
 global.authFile ='./session.json'
 if(!fs.existsSync('./session.json')){
-    MakeSession(process.env.SESSION_ID || 'RDNETjFIcHI=',authFile)
+    MakeSession(process.env.SESSION_ID || 'ejJaNXhmRHU=',authFile)
     }
 
 
