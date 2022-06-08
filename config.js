@@ -24,7 +24,7 @@ global.web = 'https://mbo254.github.io/profile.github.io/'
 global.web1 = 'https://github.com/nexusNw'
 global.linkgh = 'https://github.com/nexusNw/Sukuna'
 
-global.session = process.env.SESSION_ID|| ''
+global.session =  'session'
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Z3NON.Z'
 // Other
