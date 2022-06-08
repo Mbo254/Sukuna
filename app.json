@@ -3,13 +3,8 @@
   "logo": "https://i.imgur.com/RrUhdnF.jpeg",
   "description": "WhatsApp Bot 2 by nexusNw which supports in md whatsapps",
   "repository": "https://github.com/nexusNw/Sukuna",
-  "keywords": ["bot","whatsapp","whatsapp-bot","Sukuna","MultiDevice" ],
-  "env": {
- "SESSION_ID": {
-    "description": "The session ID you Recieved",
-    "required": true
-    }
-},
+  "keywords": ["bot","whatsapp","whatsapp-bot","Sukuna","MultiDevice" ]
+    },
 "buildpacks": [
 
   {
