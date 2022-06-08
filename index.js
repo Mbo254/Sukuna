@@ -58,7 +58,7 @@ async function startsukuna() {
         if (!sukuna.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(sukuna, mek, store)
-        require("./Sukuna")(sukuna, m, chatUpdate, store)
+        require("./main.js")(sukuna, m, chatUpdate, store)
         } catch (err) {
             //console.log(err)
         }
